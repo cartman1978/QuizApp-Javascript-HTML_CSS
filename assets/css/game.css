@@ -53,6 +53,7 @@
     width: 20rem;
     height: 4rem;
     border: 0.3rem solid #480ca8;
+    margin-top: 2rem;
 }
 
 #progressBarFull {
